@@ -17,3 +17,22 @@ The completed steps include:
    - Building a filtered vocabulary.
 
 ## Project Structure
+
+## Installation
+1. Create a virtual environment:
+```bash
+Activate the virtual environment:
+
+python -m venv venv
+
+venv\Scripts\activate
+
+source venv/bin/activate
+
+
+Usage
+To run the project:
+
+Install required packages:
+
+python main.py
